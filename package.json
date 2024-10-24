@@ -1,7 +1,7 @@
 {
   "name": "@kne/create-deferred",
   "version": "0.1.0",
-  "description": "用于创建一个每次只允许一定数量并发执行的函数，如果执行时超过边界值则超过部分会排队执行",
+  "description": "用于创建一个每次只允许一定数量并发执行的函数，如果执行时超过边界值则超过部分会排队执行.",
   "syntax": {
     "esmodules": true
   },
