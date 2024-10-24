@@ -3,13 +3,17 @@
   "list": [
     {
       "title": "这里填写示例标题",
-      "description": "这里填写示例说明",
+      "description": "演示创建100个运行时间随机0~1000ms任务，4个任务并行执行",
       "code": "./base.js",
       "scope": [
         {
           "name": "_CreateDeferred",
           "packageName": "@kne/current-lib_create-deferred",
           "importStatement": "import * as _CreateDeferred from \"@kne/create-deferred\""
+        },
+        {
+          "name": "antd",
+          "packageName": "antd"
         }
       ]
     }
